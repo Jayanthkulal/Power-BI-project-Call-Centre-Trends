@@ -51,7 +51,8 @@ Measures used in all visualization are:
   ## Data Visualization (Dashboard) :
   ###                                         call centre trend
 
-  ![Screenshot 2024-09-14 193257](https://github.com/user-attachments/assets/021f5229-9d3f-44da-ba38-78b2f7d8a213)
+  ![Screenshot 2024-09-14 193257](https://github.com/user-attachments/assets/23f32b3f-f2c0-4128-aa3d-625270377f08)
+
 
 
   ## Insights
@@ -79,6 +80,7 @@ Measures used in all visualization are:
            him are also higher than the average number of calls answered.
       -Becky's speed of answer is the lowest among all, and her rate of calls resolved is higher. She is in the 5th position in the call resolution rate.
       -Martha has the highest speed of answered in the sec
+
 
 
 
