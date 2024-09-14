@@ -35,6 +35,7 @@ Possible KPIs include (but not limited to):
 ## Data Modeling:
 
 - The call centre table as show below
+![Screenshot 2024-09-14 180000](https://github.com/user-attachments/assets/141dd9b2-9f12-4acf-9bf7-661f294536e3)
 
   
 
