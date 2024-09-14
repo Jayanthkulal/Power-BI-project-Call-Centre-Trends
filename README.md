@@ -50,7 +50,9 @@ Measures used in all visualization are:
 
   ## Data Visualization (Dashboard) :
   ###                                         call centre trend
-  ![Screenshot 2024-09-14 193257](https://github.com/user-attachments/assets/39f3f26a-fe57-40a8-8452-b5cafd9716b7)
+
+  ![Screenshot 2024-09-14 193257](https://github.com/user-attachments/assets/021f5229-9d3f-44da-ba38-78b2f7d8a213)
+
 
   ## Insights
   ### Overall customer satisfaction
